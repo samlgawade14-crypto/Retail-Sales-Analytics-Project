@@ -6,8 +6,8 @@
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ## 📌 Project Overview
 This project analyzes a real-world retail sales dataset to identify business trends, customer purchasing patterns, regional performance, and profitability insights. The project also includes a Machine Learning model to predict sales using business-related features.
-
 The objective is to demonstrate practical Data Analysis, Data Visualization, and Machine Learning skills using Python.
+
 ---
 ...
 ## 📊 Project Highlights
