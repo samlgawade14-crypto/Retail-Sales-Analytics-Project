@@ -1,7 +1,8 @@
 # 🛍️ Retail Sales Analysis & Sales Prediction
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-orange)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-orange)
+![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ## 📌 Project Overview
 This project analyzes a real-world retail sales dataset to identify business trends, customer purchasing patterns, regional performance, and profitability insights. The project also includes a Machine Learning model to predict sales using business-related features.
@@ -88,26 +89,14 @@ Shows relationships between Sales, Profit, Quantity, and Discount.
 
 ---
 
-## 📈 Visualizations
+## 📊 Visualizations Included
 
-### Sales by Category
-![Sales by Category](images/sales_by_category.png)
-
-### Profit by Category
-![Profit by Category](images/profit_by_category.png)
-
-### Monthly Sales Trend
-![Monthly Sales Trend](images/monthly_sales_trend.png)
-
-### Region-wise Sales
-![Region Sales](images/region_sales.png)
-
-### Top 10 States by Sales
-![Top States Sales](images/top10_states_sales.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-
+- Sales by Category
+- Profit by Category
+- Monthly Sales Trend
+- Region Sales Analysis
+- Top 10 States by Sales
+- Correlation Heatmap
 ---
 
 ## 🤖 Machine Learning Model
@@ -202,9 +191,10 @@ Retail-Sales-Analysis/
 
 Aspiring Data Analyst & Data Science Enthusiast
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samlgawade14-crypto&show_icons=true)
+
 - Python
 - Data Analysis
 - Machine Learning
 - Data Visualization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
