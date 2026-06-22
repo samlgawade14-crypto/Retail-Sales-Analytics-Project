@@ -8,22 +8,16 @@
 This project analyzes a real-world retail sales dataset to identify business trends, customer purchasing patterns, regional performance, and profitability insights. The project also includes a Machine Learning model to predict sales using business-related features.
 
 The objective is to demonstrate practical Data Analysis, Data Visualization, and Machine Learning skills using Python.
-
 ---
-# 🛍️ Retail Sales Analysis & Sales Prediction
-
-## 📌 Project Overview
 ...
-
 ## 📊 Project Highlights
 
-### Monthly Sales Trend
+## 📊 Featured Visualizations
+
 ![Monthly Sales Trend](images/monthly_sales_trend.png)
 
-### Top 10 States by Sales
 ![Top 10 States by Sales](images/top10_states_sales.png)
 
-### Correlation Heatmap
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
 ## 🎯 Project Objectives
