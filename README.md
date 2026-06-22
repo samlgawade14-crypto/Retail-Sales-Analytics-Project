@@ -192,7 +192,6 @@ Retail-Sales-Analysis/
 Aspiring Data Analyst & Data Science Enthusiast
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samlgawade14-crypto&show_icons=true)
-
 - Python
 - Data Analysis
 - Machine Learning
